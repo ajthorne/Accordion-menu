@@ -15,7 +15,3 @@ $ul.on('click', function(evt) {
 
 //tried slideUp and slideDown - couldn't get it to work
 //syntax?
-
-// string.forEach(function() {
-//
-// });
